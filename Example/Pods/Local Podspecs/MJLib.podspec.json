@@ -1,0 +1,22 @@
+{
+  "name": "MJLib",
+  "version": "0.1.0",
+  "summary": "A short description of MJLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/stevenwuzheng/MJLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "stevenwuzheng": "admin"
+  },
+  "source": {
+    "git": "https://github.com/stevenwuzheng/MJLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MJLib/Classes/**/*"
+}

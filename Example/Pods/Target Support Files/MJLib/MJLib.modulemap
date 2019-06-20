@@ -1,0 +1,6 @@
+framework module MJLib {
+  umbrella header "MJLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
